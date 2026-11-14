@@ -1,19 +1,17 @@
  <div align="center">
 
-<img src="./assets/froegeg-banner.png" width="100%" alt="FROEGEG Anime Banner" />
+<img src="./assets/froegeg-banner.png" width="100%" alt="Froegeg Banner" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:161219,35:53143D,70:E83B91,100:FF75B5&text=FROEGEG&fontColor=FFFFFF&fontSize=64&fontAlignY=40&animation=twinkling&desc=INDEPENDENT%20BUILDER%20%2F%20froegeg&descSize=13&descAlignY=62" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=FF75B5&center=true&vCenter=true&width=650&height=45&lines=BUILDING+THINGS+OUT+OF+CURIOSITY;EXPLORING+SYSTEMS+AND+UNFAMILIAR+TECHNOLOGIES;PROTOTYPE.+EXPERIMENT.+REBUILD.;THERE+IS+ALWAYS+SOMETHING+NEW+TO+LEARN." />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:17121D,45:53143D,75:E83B91,100:FF75B5&animation=twinkling" width="100%" />
+[![GitHub](https://img.shields.io/badge/GitHub-froegeg-19151D?style=flat-square&logo=github&logoColor=FF75B5)](https://github.com/froegeg)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-19151D?style=flat-square&logo=git&logoColor=FF75B5)](https://github.com/froegeg?tab=repositories)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=900&color=FF75B5&center=true&vCenter=true&width=600&height=45&lines=HELLO%2C+WELCOME+TO+MY+WORLD.;BUILDING+THINGS+OUT+OF+CURIOSITY.;EXPERIMENT.+CREATE.+REINVENT.;IRASHAIMASE+%E2%9C%A6" />
-
-# F R O E G E G
-
-`フロエゲグ` · PERSONAL DEVELOPMENT SPACE
-
-[![GitHub](https://img.shields.io/badge/GitHub-froegeg-211923?style=flat-square&logo=github&logoColor=FF75B5)](https://github.com/froegeg)
-[![Repositories](https://img.shields.io/badge/PROJECTS-EXPLORE-211923?style=flat-square&logo=git&logoColor=FF75B5)](https://github.com/froegeg?tab=repositories)
 
 </div>
 
@@ -21,124 +19,130 @@
 
 <div align="center">
 
-<sub>✦ 01 — ABOUT THIS WORLD ✦</sub>
 
-# A place for curiosity.
+## **BUILD · EXPERIMENT · IMPROVE**
 
 </div>
 
-I enjoy creating things, experimenting with ideas, and exploring technologies beyond what I already know.
 
-My interests are not limited to a single discipline. I move between web applications, automation, game development, Android systems, reverse engineering, and visual experiments.
 
-Sometimes I build something useful. Sometimes I build something just to understand how it works.
+I enjoy building things, exploring unfamiliar technologies, and experimenting with ideas that turn into actual projects.
 
-**Either way, I learn something new.**
+From applications and automation to game systems, low-level Android development, and reverse engineering — I'm interested in understanding how things work and seeing how far I can take them.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:17121D,50:FF75B5,100:17121D" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:161219,50:E83B91,100:161219" width="100%" />
 
-<sub>✦ 02 — EXPLORATION ✦</sub>
 
-# My interests.
+
 
 </div>
 
-| FIELD | EXPLORATION |
+## `01` / WHAT I EXPLORE
+
+| FIELD | INTEREST |
 |:--|:--|
-| ◈ Development | Web applications, full-stack architecture |
-| ◈ Automation | Bots, APIs, integrations, workflows |
-| ◈ Game Tech | Godot, modular systems, mechanics |
-| ◈ Systems | Android kernels, Linux internals |
-| ◈ Research | Reverse engineering, experimentation |
-| ◈ Graphics | Three.js, shaders, audio visualization |
-
----
+| `01` Software | Applications, architecture, full-stack systems |
+| `02` Automation | Bots, integrations, APIs, real-time communication |
+| `03` Game Tech | Godot, modular systems, game mechanics |
+| `04` Systems | Linux, Android kernels, internals |
+| `05` Research | Reverse engineering, experimentation |
+| `06` Graphics | WebGL, shaders, audio-reactive visuals |
 
 <div align="center">
 
-<sub>✦ 03 — CREATION ARCHIVE ✦</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:161219,50:E83B91,100:161219" width="100%" />
 
-# Things I've created.
-
-<sup>IDEAS THAT TURNED INTO REAL PROJECTS</sup>
 
 </div>
 
-### <text>01.</text> Godot Modular Inventory
+## `02` / SELECTED PROJECTS
 
-<sub>OPEN SOURCE / GAME DEVELOPMENT</sub>
+### `01` — Godot Modular Inventory
 
-A modular inventory addon for Godot, designed to support reusable components and flexible integration across different game genres.
+**An open-source modular inventory addon for Godot.**
+
+Reusable inventory architecture designed to work across different game genres, with modularity and extensibility in mind.
 
 `GODOT` `GDSCRIPT` `OPEN SOURCE`
 
----
+### `02` — Luminaris
 
-### <text>02.</text> Luminaris
+**Modular WhatsApp automation.**
 
-<sub>BOT DEVELOPMENT / AUTOMATION</sub>
+A plugin-oriented bot ecosystem with games, utilities, moderation, media tools and integrations.
 
-A modular WhatsApp automation ecosystem featuring plugins, utilities, games, moderation, media tools, and integrations.
+`TYPESCRIPT` `BUN` `NODE.JS` `BAILEYS`
 
-`TYPESCRIPT` `BUN` `BAILEYS`
+### `03` — Timi
 
----
+**Private real-time messaging.**
 
-### <text>03.</text> Timi
-
-<sub>APPLICATION / REAL-TIME COMMUNICATION</sub>
-
-A private messenger exploring custom backend architecture, socket communication, message synchronization, and local caching.
+A custom messaging application exploring socket communication, message synchronization, local caching and private conversations.
 
 `REACT NATIVE` `EXPRESS` `SOCKET.IO` `SQLITE`
 
----
+### `04` — Flow Mode
 
-### <text>04.</text> Flow Mode
+**Experimental audio visualization.**
 
-<sub>GRAPHICS / AUDIO EXPERIMENT</sub>
-
-An immersive music visualization experiment using audio analysis, particles, and real-time graphics.
+A visual experience combining music, audio analysis, particles and real-time graphics.
 
 `THREE.JS` `WEBGL` `WEB AUDIO`
 
 <div align="center">
 
-[EXPLORE MORE PROJECTS ↗](https://github.com/froegeg?tab=repositories)
+<!-- <a href="https://github.com/froegeg?tab=repositories">EXPLORE ALL PROJECTS →</a> -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:17121D,50:FF75B5,100:17121D" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:161219,50:E83B91,100:161219" width="100%" />
 
-<sub>✦ 04 — EQUIPMENT ✦</sub>
-
-# My technology collection.
 
 </div>
 
-<div align="center">
+## `03` / TECHNOLOGIES
 
-**LANGUAGES**
+**LANGUAGES & RUNTIMES**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,kotlin,java,gd" />
-
-<br/><br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,kotlin,java,gd,bun,nodejs" />
+</p>
 
 **WEB & APPLICATIONS**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bun,express,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,express,html,css,threejs" />
+</p>
 
-<br/><br/>
+**GAME DEVELOPMENT**
 
-**GAME & GRAPHICS**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=godot,unity" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=godot,unity,threejs" />
+**SYSTEMS & ENVIRONMENT**
 
-<br/><br/>
-
-**SYSTEMS & TOOLS**
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=linux,android,git,github,sqlite,postgres,vscode" />
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:161219,50:E83B91,100:161219" width="100%" />
+
+<sub>05 / CONTRIBUTION FIELD — ACTIVITY</sub>
+
+# Activity visualization.
+
+<img src="https://github-readme-stats.vercel.app/api?username=froegeg&show_icons=true&hide_border=true&bg_color=161219&title_color=FF75B5&text_color=EAE4EC&icon_color=E83B91&include_all_commits=true&count_private=true" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=froegeg&hide_border=true&background=161219&ring=E83B91&fire=FF75B5&currStreakLabel=FF75B5&sideLabels=EAE4EC&currStreakNum=FF75B5&sideNums=FF75B5&dates=B99AAA" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=froegeg&layout=compact&hide_border=true&bg_color=161219&title_color=FF75B5&text_color=EAE4EC" width="100%" />
 
 </div>
 
@@ -146,46 +150,27 @@ An immersive music visualization experiment using audio analysis, particles, and
 
 <div align="center">
 
-<sub>✦ 05 — DEVELOPMENT DIARY ✦</sub>
-
-# Activity archive.
-
-<img src="https://github-readme-stats.vercel.app/api?username=froegeg&show_icons=true&hide_border=true&bg_color=17121D&title_color=FF75B5&text_color=EDE4EF&icon_color=E83B91&include_all_commits=true" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=froegeg&hide_border=true&background=17121D&ring=E83B91&fire=FF75B5&currStreakLabel=FF75B5&sideLabels=EDE4EF&currStreakNum=FF75B5&sideNums=FF75B5&dates=B99AAA" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=froegeg&layout=compact&hide_border=true&bg_color=17121D&title_color=FF75B5&text_color=EDE4EF" width="100%" />
+<img src="https://raw.githubusercontent.com/froegeg/froegeg/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
 
 </div>
 
 ---
 
+## `05` / BEYOND CODE
+
 <div align="center">
 
-<sub>✦ 06 — AFTER HOURS ✦</sub>
-
-# Outside the terminal.
-
-Anime, pixel art, game design, Linux, music, and visual experiments.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=1100&color=FF75B5&center=true&vCenter=true&width=500&height=40&lines=KEEP+YOUR+CURIOSITY+ALIVE.;THERE+IS+ALWAYS+MORE+TO+EXPLORE.;MAKE+SOMETHING+UNEXPECTED." />
+
+
+### MAKE SOMETHING. BREAK SOMETHING. MAKE IT BETTER.
+
+`FROEGEG` · `alvlp`
 
 <br/>
 
-### 何かを作り続けよう。
-
-<sub>KEEP CREATING SOMETHING.</sub>
-
-<br/>
-
-`FROEGEG` · `GITHUB.COM/FROEGEG`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF75B5,40:E83B91,75:53143D,100:17121D&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:FF75B5,45:E83B91,75:53143D,100:161219" width="100%" />
 
 </div>
